@@ -82,6 +82,7 @@ Once you installed Anaconda successfully you can start Anaconda. Therefore, you 
 3.) write ``python`` to show which version of python and anaconda that you use
 
 After following the steps, Windows command line should be shown
+
 ![github](/images/promrt.PNG)
 
 
@@ -104,11 +105,13 @@ As shown below Before you install any packages into your environment, you will n
 To deactivate use:
 
 ``conda deactivate``
+
 ![github](/images/env.PNG)
 
 
 
 the example below show that we activate and deactivate (example environment)
+
 ![github](/images/example.PNG)
 
 
