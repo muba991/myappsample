@@ -1,6 +1,6 @@
 
 
-# Modelling and Optimization with Python
+# Modelling and Optimization with Python (Anaconda)
 
 
 
@@ -68,7 +68,7 @@ You may get a pop-up window saying that spyder is not the latest version, which 
 
 You can begin working with spyder immediately in the console window. It works, essentially, the same way that it works on the command line. The big difference is that spyder can inspect the contents of the Python engine and can-do things like display variables and their contents within the variable explorer.
 
-**moreover you can use Jupyter Notebooks the same way** ,Jupyter Notebooks are an increasingly popular system that combine your code, descriptive text, output, images, and interactive interfaces into a single notebook file that is edited, viewed, and used in a web browser
+**moreover you can use Jupyter Notebooks the same way** ,Jupyter Notebooks are an increasingly popular system that combine your code, descriptive text, output, images, and interactive interfaces into a single notebook file that is edited, viewed, and used in a web browser.
 
 
 ##  making virtual environment in Anaconda :
@@ -169,13 +169,13 @@ also visit
 
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.htmlor 
 
-or search in the internet for more commands and packages
+or search in the internet for more commands and packages .
 
 
 
 
 #### Solvers  
- Solvers are powerful packages help to solve large-scale linear programming ,quadratic programming, quadratically constrained programming, mixed integer programming, and other related problems
+ Solvers are powerful packages help to solve large-scale linear programming ,quadratic programming, quadratically constrained programming, mixed integer programming, and other related problems .
 
 #### some examples 
 
