@@ -192,6 +192,18 @@ to install glpk solver
 
 ![github](/images/pyomo.PNG)
 
+**to install cbc solver for windows** 
+use this link https://oemof.readthedocs.io/en/stable/installation_and_setup.html
+and look for windows solver
+1) Check your architecture first (32/64 bit)
+2) In Anaconda Prompt’ type: ``pip install oemof``
+3) Downloaded CBC (64 or 32 bit)
+4) Unpacked CBC to your model folder 
+5) Restarrt windows 
+
+
+
+
 ## Another way to install packages and solvers on Jupyter notebook
 
 After installing Anaconda, we can also install Jupyter notebook on the new environment as we have done with Spyder
