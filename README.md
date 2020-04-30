@@ -46,7 +46,7 @@ after installing and opening Anaconda:
 
 Anaconda navigator windows appears **Anaconda Navigator** is a desktop graphical user interface (GUI) included in Anaconda® distribution that allows you to launch applications and easily manage conda packages, environments, and channels without using command-line commands. Navigator can search for packages on Anaconda Cloud or in a local Anaconda Repository.
 
-
+![github](/images/env.PNG)
 ##############
 ## Spyder
 
