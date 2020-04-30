@@ -208,7 +208,8 @@ write one of this command and click run to install pyomo Package:
 
 ![github](/images/jupyter1.PNG)
 
-3.)	write one of this command and click run to install glpk solver :                                                                                                                                    
+3.)	write one of this command and click run to install glpk solver :                                                                                                                      
+
 ``conda install -c conda-forge glpk``
 
 ``conda install -c conda-forge/label/gcc7 glpk``
@@ -218,12 +219,8 @@ write one of this command and click run to install pyomo Package:
 ``conda install -c conda-forge/label/cf201901 glpk``
 
 ``conda install -c conda-forge/label/cf202003 glpk``
+
 ![github](/images/jupyter2.PNG)
-.
-
-.
-
-.
 
 
 This method is valid for all other packages and solver 
