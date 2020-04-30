@@ -220,7 +220,7 @@ write one of this command and click run to install pyomo Package:
 
 ``conda install -c conda-forge/label/cf202003 glpk``
 
-![github](/images/jupyter2.PNG)
+![github](/images/jupyter2.png)
 
 
 This method is valid for all other packages and solver 
