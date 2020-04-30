@@ -188,7 +188,7 @@ to install glpk solver
 
 ![github](/images/pyomo.PNG)
 
-**Another way to install packages and solvers on Jupyter notebook**
+## Another way to install packages and solvers on Jupyter notebook
 
 After installing Anaconda, we can also install Jupyter notebook on the new environment as we have done with Spyder
 
