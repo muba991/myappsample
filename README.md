@@ -39,7 +39,7 @@ Click Start, search, or select Anaconda Navigator from the menu.
 If you prefer using a command line interface (CLI), you can use conda to verify the installation using Anaconda Prompt on Windows.
 
 
-![](conda.PNG)
+![github](conda.PNG)
 
 
 after installing and opening Anaconda:
