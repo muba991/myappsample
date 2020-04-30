@@ -4,7 +4,9 @@
 
 
 
-New to programming? Python is free and easy to learn if you know where to start! This guide will help you to get started quickly.
+New to programming? 
+
+Python is free and easy to learn if you know where to start! This guide will help you to get started quickly.
 
 ## Anaconda for Data Scientists
 
@@ -44,10 +46,10 @@ If you prefer using a command line interface (CLI), you can use conda to verify 
 
 after installing and opening Anaconda:
 
-Anaconda navigator windows appears **Anaconda Navigator** is a desktop graphical user interface (GUI) included in Anaconda® distribution that allows you to launch applications and easily manage conda packages, environments, and channels without using command-line commands. Navigator can search for packages on Anaconda Cloud or in a local Anaconda Repository.
+Anaconda navigator windows appears **Anaconda Navigator** is a desktop graphical user interface (GUI) included in Anaconda distribution that allows you to launch applications and easily manage conda packages, environments, and channels without using command-line commands. Navigator can search for packages on Anaconda Cloud or in a local Anaconda Repository.
 
 ![github](/images/navi.PNG)
-##############
+
 ## Spyder
 
 The simplest way to run ,edit or write code is with spyder. There are many ways to launch it .
@@ -60,7 +62,7 @@ If you have a terminal window open, simply launch spyder by typing ``spyder`` an
 
 You may get a pop-up window saying that spyder is not the latest version, which is just because the version within Anaconda is a few revisions behind.
 ![github](/images/spyder.PNG)
-#################
+
 
 1.)	Editor window: here you can (open, read, run, write, edit, etc) your code.
 2.)	The upper right-hand side is used for a help browser, a variable explorer, and a file explorer. You can change which panes are visible and their layout within the window.
@@ -81,7 +83,7 @@ Once you installed Anaconda successfully you can start Anaconda. Therefore, you 
 
 After following the steps, Windows command line should be shown
 ![github](/images/promrt.PNG)
-##################
+
 
 
 Anaconda uses virtual environments. These are separate spaces on your computer that you can use to install specific python packages. You can create multiple environments where you can use different versions of python, versions of packages etc (depending on your use-case).
@@ -103,12 +105,12 @@ To deactivate use:
 
 ``conda deactivate``
 ![github](/images/env.PNG)
-#############
+
 
 
 the example below show that we activate and deactivate (example environment)
 ![github](/images/example.PNG)
-########
+
 
 
 Now back to example environment by typing ``conda activate example`` and installing spyder for this environment
