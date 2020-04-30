@@ -59,6 +59,7 @@ or
 If you have a terminal window open, simply launch spyder by typing ``spyder`` and pressing enter.
 
 You may get a pop-up window saying that spyder is not the latest version, which is just because the version within Anaconda is a few revisions behind.
+
 ![github](/images/spyder.PNG)
 
 
