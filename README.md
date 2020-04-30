@@ -46,7 +46,7 @@ after installing and opening Anaconda:
 
 Anaconda navigator windows appears **Anaconda Navigator** is a desktop graphical user interface (GUI) included in Anaconda® distribution that allows you to launch applications and easily manage conda packages, environments, and channels without using command-line commands. Navigator can search for packages on Anaconda Cloud or in a local Anaconda Repository.
 
-![github](/images/env.PNG)
+![github](/images/navi.PNG)
 ##############
 ## Spyder
 
@@ -59,7 +59,7 @@ or
 If you have a terminal window open, simply launch spyder by typing ``spyder`` and pressing enter.
 
 You may get a pop-up window saying that spyder is not the latest version, which is just because the version within Anaconda is a few revisions behind.
-
+![github](/images/spyder.PNG)
 #################
 
 1.)	Editor window: here you can (open, read, run, write, edit, etc) your code.
@@ -80,7 +80,7 @@ Once you installed Anaconda successfully you can start Anaconda. Therefore, you 
 3.) write ``python`` to show which version of python and anaconda that you use
 
 After following the steps, Windows command line should be shown
-
+![github](/images/promrt.PNG)
 ##################
 
 
@@ -102,12 +102,12 @@ As shown below Before you install any packages into your environment, you will n
 To deactivate use:
 
 ``conda deactivate``
-
+![github](/images/env.PNG)
 #############
 
 
 the example below show that we activate and deactivate (example environment)
-
+![github](/images/example.PNG)
 ########
 
 
@@ -186,7 +186,7 @@ to install gurobi optimizer
 to install glpk solver
 
 
-
+![github](/images/pyomo.PNG)
 
 **Another way to install packages and solvers on Jupyter notebook**
 
@@ -206,7 +206,7 @@ write one of this command and click run to install pyomo Package:
 
 ``conda install -c conda-forge/label/cf202003 pyomo``
 
-
+![github](/images/jupyter1.PNG)
 
 3.)	write one of this command and click run to install glpk solver :                                                                                                                                    
 ``conda install -c conda-forge glpk``
@@ -218,7 +218,7 @@ write one of this command and click run to install pyomo Package:
 ``conda install -c conda-forge/label/cf201901 glpk``
 
 ``conda install -c conda-forge/label/cf202003 glpk``
-
+![github](/images/jupyter2.PNG)
 .
 
 .
